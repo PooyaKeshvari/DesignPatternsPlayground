@@ -23,7 +23,3 @@ Console project that demonstrates common backend design patterns in practical C#
 dotnet run --project src/DesignPatternsPlayground/DesignPatternsPlayground.csproj
 ```
 
-## Interview Talking Points
-- How Strategy keeps payment logic open for extension.
-- Why Decorator adds caching without changing base service code.
-- How Facade reduces coupling for application consumers.
