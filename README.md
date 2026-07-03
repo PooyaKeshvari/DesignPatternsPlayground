@@ -20,6 +20,6 @@ Console project that demonstrates common backend design patterns in practical C#
 
 ## Run
 ```bash
-dotnet run --project src/DesignPatternsPlayground/DesignPatternsPlayground.csproj
+dotnet run --project DesignPatternsPlayground.csproj
 ```
 
